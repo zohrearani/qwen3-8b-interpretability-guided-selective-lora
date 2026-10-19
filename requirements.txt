@@ -1,0 +1,12 @@
+# Compatible versions depend on the local CUDA/PyTorch environment.
+# Use a CUDA-enabled PyTorch wheel suitable for your driver and GPU.
+numpy
+pandas
+scipy
+scikit-learn
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+datasets
