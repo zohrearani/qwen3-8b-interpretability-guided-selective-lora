@@ -1,0 +1,41 @@
+pair_id,clean_text,corrupt_text,target_label,pair_id,phenomenon,source
+0,Text: کیفیت دوربین این گوشی خوب است. -> Label: ,Text: کیفیت دوربین این گوشی خراب است. -> Label: ,1,1,lexical_polarity,synthetic_minimal_pair
+1,Text: باتری دستگاه ماندگاری بالایی دارد. -> Label: ,Text: باتری دستگاه ماندگاری کمی دارد. -> Label: ,1,2,battery,synthetic_minimal_pair
+2,Text: صفحه‌نمایش روشن و خوانا است. -> Label: ,Text: صفحه‌نمایش محو و تیره است. -> Label: ,1,3,display,synthetic_minimal_pair
+3,Text: صدای بلندگو کامل واضح است. -> Label: ,Text: صدای بلندگو غیر واضح است. -> Label: ,1,4,audio,synthetic_minimal_pair
+4,Text: بدنه گوشی هم محکم و هم بادوام است. -> Label: ,Text: بدنه گوشی هم ضعیف و کم‌دوام است. -> Label: ,1,5,build_quality,synthetic_minimal_pair
+5,Text: اجرای برنامه‌ها سریع و روان است. -> Label: ,Text: اجرای برنامه‌هاش کمی سنگینه. -> Label: ,1,6,performance,synthetic_minimal_pair
+6,Text: رابط کاربری ساده و روان است. -> Label: ,Text: رابط کاربری دشوار و کند است. -> Label: ,1,7,usability,synthetic_minimal_pair
+7,Text: این محصول نسبت به امکاناتش به‌صرفه است. -> Label: ,Text: این محصول نسبت به امکانات خب گران است. -> Label: ,1,8,value,synthetic_minimal_pair
+8,Text: طراحی گوشی زیبا و جذاب است. -> Label: ,Text: طراحی گوشی زشت و قدیمی است. -> Label: ,1,9,design,synthetic_minimal_pair
+9,Text: شارژر دستگاه به‌خوبی کار می‌کند. -> Label: ,Text: شارژر دستگاه به‌سختی کار می‌کند. -> Label: ,1,10,accessory,synthetic_minimal_pair
+10,Text: آنتن‌دهی گوشی خوب و پایدار است. -> Label: ,Text: آنتن‌دهی گوشی ضعیف و بد است. -> Label: ,1,11,connectivity,synthetic_minimal_pair
+11,Text: حافظه داخلی برای استفاده روزمره جوابگو است. -> Label: ,Text: حافظه داخلی برای استفاده روزمره جواب نیست. -> Label: ,1,12,storage,synthetic_minimal_pair
+12,Text: حسگر اثر انگشت سریع و دقیق است. -> Label: ,Text: حسگر اثر انگشت کند و نادقیق است. -> Label: ,1,13,sensor,synthetic_minimal_pair
+13,Text: وزن گوشی سبک و مناسب است. -> Label: ,Text: وزن گوشی کمی سنگینه. -> Label: ,1,14,ergonomics,synthetic_minimal_pair
+14,Text: به‌روزرسانی‌های نرم‌افزاری به‌موقع منتشر می‌شوند. -> Label: ,Text: به‌روزرسانی‌های نرم‌افزاری باتأخیر منتشر می شدند. -> Label: ,1,15,software,synthetic_minimal_pair
+15,Text: از خرید این گوشی کاملاً راضی‌ام. -> Label: ,Text: از خرید این گوشی کاملاً ناراضیم. -> Label: ,1,16,overall_satisfaction,synthetic_minimal_pair
+16,Text: عکس‌های شبانه جزئیات خوبی دارند. -> Label: ,Text: عکس‌های شبانه جزئیات کمی دارند. -> Label: ,1,17,camera,synthetic_minimal_pair
+17,Text: با وجود قیمت بالا، کیفیت دستگاه مطلوب است. -> Label: ,Text: با وجود قیمت بالا، کیفیت دستگاه پایینه. -> Label: ,1,18,contrast,synthetic_minimal_pair
+18,Text: ابتدا تردید داشتم، اما از عملکردش راضی هستم. -> Label: ,Text: ابتدا تردید داشتم، اما از عملکردش ناراضی‌ام. -> Label: ,1,19,contrast,synthetic_minimal_pair
+19,Text: این گوشی واقعاً خیلی خوبه. -> Label: ,Text: این گوشی درواقع خیلی افتضاح است. -> Label: ,1,20,colloquial,synthetic_minimal_pair
+20,Text: کیفیت عکس‌های این گوشی پایین است. -> Label: ,Text: کیفیت عکس‌های این گوشی عالی است. -> Label: ,0,31,camera,synthetic_minimal_pair
+21,Text: شارژدهی باتری اعصاب خردکن است. -> Label: ,Text: شارژدهی باتری رضایت‌بخش است. -> Label: ,0,32,battery,synthetic_minimal_pair
+22,Text: رنگ‌های صفحه‌نمایش غیرزنده و بی‌روح هستند. -> Label: ,Text: رنگ‌های صفحه‌نمایش زنده و طبیعی هستند. -> Label: ,0,33,display,synthetic_minimal_pair
+23,Text: صدای مکالمه نامفهوم است. -> Label: ,Text: صدای مکالمه واضح و قوی است. -> Label: ,0,34,audio,synthetic_minimal_pair
+24,Text: بدنه دستگاه لق و ضعیف است. -> Label: ,Text: بدنه دستگاه قوی و مقاوم است. -> Label: ,0,35,build_quality,synthetic_minimal_pair
+25,Text: برنامه‌ها روی این گوشی زور اجرا می‌شوند. -> Label: ,Text: برنامه‌ها روی این گوشی راحت اجرا می‌شوند. -> Label: ,0,36,performance,synthetic_minimal_pair
+26,Text: منوهای دستگاه غیرواضح هستند. -> Label: ,Text: منوهای دستگاه ساده و واضح هستند. -> Label: ,0,37,usability,synthetic_minimal_pair
+27,Text: قیمت این مدل با این امکانات خوب نیست. -> Label: ,Text: قیمت این مدل به ازای امکاناتش مناسب است. -> Label: ,0,38,value,synthetic_minimal_pair
+28,Text: ظاهر گوشی از مد افتاده است. -> Label: ,Text: ظاهر گوشی قشنگ و جدید است. -> Label: ,0,39,design,synthetic_minimal_pair
+29,Text: کابل همراه دستگاه  بی کیفیت است. -> Label: ,Text: کابل همراه دستگاه با کیفیت خوب است. -> Label: ,0,40,accessory,synthetic_minimal_pair
+30,Text: آنتن‌دهی در محیط بسته پایین است. -> Label: ,Text: آنتن‌دهی در محیط بسته قوی است. -> Label: ,0,41,connectivity,synthetic_minimal_pair
+31,Text: فضای ذخیره‌سازی برای برنامه‌ها کم است. -> Label: ,Text: فضای ذخیره‌سازی برای برنامه‌ها بس است. -> Label: ,0,42,storage,synthetic_minimal_pair
+32,Text: حسگر اثر انگشت خطای بالایی دارد. -> Label: ,Text: حسگر اثر انگشت دقت بالایی دارد. -> Label: ,0,43,sensor,synthetic_minimal_pair
+33,Text: از انتخاب این مدل کاملاً پشیمانم. -> Label: ,Text: از انتخاب این مدل کاملاً راضی‌ام. -> Label: ,0,46,overall_satisfaction,synthetic_minimal_pair
+34,Text: بعد از به‌روزرسانی، عملکرد گوشی بدتر شد. -> Label: ,Text: بعد از به‌روزرسانی، عملکرد گوشی بهتر شد. -> Label: ,0,49,software,synthetic_minimal_pair
+35,Text: گوشی هنگام بازی خیلی داغ می‌کند. -> Label: ,Text: گوشی هنگام بازی اصلاً داغ نمی‌کند. -> Label: ,0,53,thermal,synthetic_minimal_pair
+36,Text: کیفیت این مدل کمتر از انتظارم بود. -> Label: ,Text: کیفیت این مدل بیش از انتظارم بود. -> Label: ,0,56,expectation,synthetic_minimal_pair
+37,Text: خرید این گوشی را توصیه نمی‌کنم. -> Label: ,Text: خرید این گوشیو توصیه می‌کنیم. -> Label: ,0,57,recommendation,synthetic_minimal_pair
+38,Text: این محصول ارزش خرید ندارد. -> Label: ,Text: این محصول ارزش خریدن دارد. -> Label: ,0,58,value,synthetic_minimal_pair
+39,Text: در استفاده روزانه مشکلات زیادی داشتم. -> Label: ,Text: در استفاده روزانه مشکل خاصی نداشتم. -> Label: ,0,59,reliability,synthetic_minimal_pair
